@@ -1,0 +1,7 @@
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\bin\Debug\Mueblee.exe
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\bin\Debug\Mueblee.pdb
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\obj\Debug\Mueblee.csproj.AssemblyReference.cache
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\obj\Debug\Mueblee.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\obj\Debug\Mueblee.csproj.CoreCompileInputs.cache
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\obj\Debug\Mueblee.exe
+C:\Users\PABEL\RiderProjects\Mueblee\Mueblee\obj\Debug\Mueblee.pdb
